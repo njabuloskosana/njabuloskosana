@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/b0535cfb-6077-47ff-accc-a5b1692a77de" height="100" alt="Coding Animation"/>
 </div>
 
-### 💻 Full-Stack Developer | Building Cool Stuff with Code
+### 💻 Software Engineer | Building Cool Stuff with Code
 
 <br/>
 
