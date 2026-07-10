@@ -23,9 +23,9 @@
 ```javascript
 const njabulo = {
     code: ["TypeScript", "JavaScript", "C#", "Go"],
-    frontend: ["React", "Vue 3", "Angular 13+", "Next.js"],
-    backend: [".NET", "Node.js", "NestJs"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    frontend: ["React", "Vue 3"],
+    backend: [".NET", "Node.js", "Go"],
+    databases: ["PostgreSQL", "Mircosoft SQL Server", "MySQL"],
     aiTooling: ["Claude Code", "Co-pilot", "Pi"],
     currentlyLearning: "React + .NET 10 ",
     funFact: "I debug with console.log and I'm not ashamed"
