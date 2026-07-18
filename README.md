@@ -76,9 +76,7 @@ const njabulo = {
     frontend: ["React", "Vue 3"],
     backend: [".NET", "Node.js", "Go"],
     databases: ["PostgreSQL", "Mircosoft SQL Server", "MySQL"],
-    aiTooling: ["Claude Code", "Co-pilot", "Pi"],
-    currentlyLearning: "React + .NET 10",
-    funFact: "I debug with console.log and I'm not ashamed"
+    aiTooling: ["Claude Code", "Co-pilot", "Pi"]
 };
 ```
 
