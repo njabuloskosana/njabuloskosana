@@ -18,8 +18,6 @@
 
 ---
 
-### 🛠️ Tech I Play With
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -73,7 +71,10 @@
 ```
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<div>
 
 ```javascript
 const njabulo = {
@@ -87,10 +88,7 @@ const njabulo = {
 };
 ```
 
-</td>
-</tr>
-</table>
-
+</div>
 <div align="center">
   
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
