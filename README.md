@@ -12,9 +12,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center" style="background: linear-gradient(135deg, #6A0DAD 0%, #8B00FF 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 ```
                                                   +=-=====
@@ -64,9 +62,7 @@
 *-.=#+--*=====+++*==++++++++===-*++*##*@= ...  .+@@%@@@+....----=  %@#=+=+*=-:+*#*******+++++*++
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 <div>
 
