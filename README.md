@@ -72,7 +72,7 @@ const njabulo = {
     frontend: ["React", "Vue 3"],
     backend: [".NET", "Node.js", "Go"],
     databases: ["PostgreSQL", "Mircosoft SQL Server", "MySQL"],
-    aiTooling: ["Claude Code", "Co-pilot", "Pi"]
+    aiTooling: ["Claude Code", "GitHub Copilot", "ChatGPT","Pi Terminal"]
 };
 ```
 
@@ -89,6 +89,8 @@ const njabulo = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -97,17 +99,9 @@ const njabulo = {
 ### 🎯 What I'm Up To
 
 - 🔨 Building full-stack applications that solve real problems
-- 📚 Writing about cloud tech on my blog at [hashnode.dev](https://njabuloskosana.hashnode.dev/)
+- 📚 Checkout my knowledge shares
 - 🌱 Currently diving deep into React ecosystem
 - 💡 Always exploring new technologies and frameworks
-
----
-
-### 📊 Most Used Languages
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njabuloskosana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
 
 ---
 
